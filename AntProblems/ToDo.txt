@@ -1,0 +1,6 @@
+Trail in Array zetten.
+Hoogste aantal gegeten dingen.
+Eerste generatie random beginnen, roulettewiel daarna.
+Ant Class
+Expression Method (Genotype to Fenotype)
+Fitness Method 
